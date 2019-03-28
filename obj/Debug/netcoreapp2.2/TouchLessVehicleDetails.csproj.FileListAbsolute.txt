@@ -1,0 +1,14 @@
+/home/afsal/TouchLessVehicleDetails/bin/Debug/netcoreapp2.2/TouchLessVehicleDetails.deps.json
+/home/afsal/TouchLessVehicleDetails/bin/Debug/netcoreapp2.2/TouchLessVehicleDetails.runtimeconfig.json
+/home/afsal/TouchLessVehicleDetails/bin/Debug/netcoreapp2.2/TouchLessVehicleDetails.runtimeconfig.dev.json
+/home/afsal/TouchLessVehicleDetails/bin/Debug/netcoreapp2.2/TouchLessVehicleDetails.dll
+/home/afsal/TouchLessVehicleDetails/bin/Debug/netcoreapp2.2/TouchLessVehicleDetails.pdb
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.csprojAssemblyReference.cache
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.csproj.CoreCompileInputs.cache
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.RazorAssemblyInfo.cache
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.RazorAssemblyInfo.cs
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.AssemblyInfoInputs.cache
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.AssemblyInfo.cs
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.RazorTargetAssemblyInfo.cache
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.dll
+/home/afsal/TouchLessVehicleDetails/obj/Debug/netcoreapp2.2/TouchLessVehicleDetails.pdb
